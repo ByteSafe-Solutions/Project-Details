@@ -30,24 +30,30 @@ Your job is to prepare a technical demonstration of how you will meet the given 
 
 ## Project Management Tool - [Trello]
 
-## System Selections - [Selfpaced-Ops-201- System Selections Doc] 
+## System Selections - [Selfpaced-Ops-201- System Selections] 
 
-## Standard Operating Procedures (SOP)
+## Standard Operating Procedures ([SOPs])
+- User Provisioning 
+- Remote Connectivity
+- Backup Solutions
+- Collaboration 
 
-## Slide Deck - [Google Slides] 
+## Slide Deck - [Google Slides]  
 
-## System Configurations  
-
-## Network Topology 
+## [Network Topology] 
 
 
 
 [Google Slides]: https://docs.google.com/presentation/d/1PkHf2zkPTs8W0df83oOmulO7esgpR_U0X65HBNCPcEo/edit?usp=sharing
 
-[Selfpaced-Ops-201- System Selections Doc]: https://docs.google.com/document/d/1a-m5KQ6RjqJZkqeL_CdPqmN6syOcjFKkQF5V5W-lpNM/edit?usp=sharing
+[Selfpaced-Ops-201- System Selections]: https://docs.google.com/document/d/1a-m5KQ6RjqJZkqeL_CdPqmN6syOcjFKkQF5V5W-lpNM/edit?usp=sharing
 
 [Github]: https://github.com/Kiducos
 
 [LinkedIn]: https://www.linkedin.com/in/kevin-ducos-73a65a94/
 
 [Trello]: https://trello.com/invite/b/EIuHRJze/ATTI5d464aa7f1b5ccb9f7d4ead3f88d1a6dD4DCE555/project-board
+
+[Network Topology]: https://drive.google.com/file/d/1W00WsfdK3t7eDf4yac_OspATUVN1Jgj_/view?usp=sharing
+
+[SOPs]: https://github.com/ByteSafe-Solutions/SOPs
